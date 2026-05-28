@@ -1,0 +1,7 @@
+read_verilog synthesized_half_adder.v
+read_verilog synthesized_half_adder.v
+exit
+read_verilog synthesized_half_adder.v
+exit
+read_verilog synth_clean.v
+exit
